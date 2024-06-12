@@ -52,3 +52,11 @@ As of June 2024, Tempus integrates with the following EHRs:
 * [SoftBank-backed Tempus AI seeks up to $6.1 bln valuation in US IPO](https://www.reuters.com/markets/deals/tempus-ai-seeks-up-61-bln-valuation-us-ipo-2024-06-05/)
 * [Tempus Announces New Features to its Smart Physician Platform, Hub](https://www.tempus.com/news/tempus-announces-new-features-to-its-smart-physician-platform-hub/), Tempus website press release, June 03, 2024
 [Crunchbase profile for Tempus](https://www.crunchbase.com/organization/tempus-3)
+* [Tempus AI products overview](https://www.tempus.com/about-us/tempus-tech/)
+* [The potential for artificial intelligence in healthcare - Diagnosis and treatment applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/#S0008title) - NIH, June 2019 - Thomas Davenport and Ravi Kalakota
+* [How AI Is Taking the Scut Work Out of Health Care, HBR, Jonthan Bush, March 05, 2018](https://hbr.org/2018/03/how-ai-is-taking-the-scut-work-out-of-health-care)
+* [National Electronic Health Survey Records Survey Results and Products](https://www.cdc.gov/nchs/nehrs/surveyproducts.htm#:~:text=91.5%25%20of%20primary%20care%20physicians,physicians%20used%20an%20EHR%20system.) - National Electronic Health Survey Records Survey - 2019
+* [Public use file national weighted estimates: National Electronic Health Records Survey, 2019](https://www.cdc.gov/nchs/data/nehrs/2019NEHRS-PUF-weighted-estimates-508.pdf)
+* [The MYCIN Experiments - Stanford University](https://exhibits.stanford.edu/feigenbaum/browse/the-mycin-experiments)
+
+
