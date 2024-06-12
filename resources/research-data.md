@@ -50,3 +50,5 @@ As of June 2024, Tempus integrates with the following EHRs:
 * [Free Jan 2024 Issue of NEJM AI Journal](https://ai.nejm.org/toc/ai/1/1)
 * [Multimodal Generative AI for Precision Health](https://ai.nejm.org/doi/full/10.1056/AI-S2300233) - Hoifung Poon, PhD (Microsoft), December 11, 2023
 * [SoftBank-backed Tempus AI seeks up to $6.1 bln valuation in US IPO](https://www.reuters.com/markets/deals/tempus-ai-seeks-up-61-bln-valuation-us-ipo-2024-06-05/)
+* [Tempus Announces New Features to its Smart Physician Platform, Hub](https://www.tempus.com/news/tempus-announces-new-features-to-its-smart-physician-platform-hub/), Tempus website press release, June 03, 2024
+[Crunchbase profile for Tempus](https://www.crunchbase.com/organization/tempus-3)
