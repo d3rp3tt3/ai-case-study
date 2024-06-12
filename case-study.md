@@ -1,16 +1,23 @@
-# TITLE
+# Tempus AI: Using Artificial Intelligence to Improve EHR Patient Experiences
 
 ## Overview and Origin
 
 * Name of company
+[Tempus AI](https://www.tempus.com/)
 
 * When was the company incorporated?
+Tempus AI was founded in 2015 and is pre-IPO. The company's legal name is Tempus Labs, Inc.
 
 * Who are the founders of the company?
+Eric Lefkofsky is the founder. [Eric's bio on Tempus website](https://www.tempus.com/team_members/eric-lefkofsky/). He is a co-founder and Chairman of Groupon and is a founding partner of a venture capital company named [Lightbank](https://www.lightbank.com/team-portfolio/eric-lefkofsky). 
 
 * How did the idea for the company (or project) come about?
+Eric Lefkofsky has said he started the company because his wife was diagnosed with breast cancer. He wanted to use data to inform patient diagnoses and treatment to improve patients' overall recovery.
 
 * How is the company funded? How much funding have they received?
+Tempus has 16 investors, 5 of which are lead investors. They've raised $1.3 billion over 13 rounds of funding. They are currently a series G company and have had two rounds of debt financing. [Tempus financial data on Crunchbase](https://www.crunchbase.com/organization/tempus-3/company_financials).
+
+Tempus plans to IPO in 2024, seeking a $6.1 billion valuation to make the company public via the NASDAQ public stock exchange.
 
 ## Business Activities
 
