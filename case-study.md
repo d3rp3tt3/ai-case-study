@@ -109,7 +109,7 @@ For new capabilities, Tempus should add natural language processing and machine 
 Patients want direct access to their health profiles. Companies like Tempus have a unique opportunity to help physicians make more actionable treatment plans based on AI and to foster their patients to feel more in control of those plans.
 
 # Research and Resources
-This case study was informed from the following resources.
+This case study was informed from the following resources. To see the full set of research, see [the research data in this repository](./resources/research-data.md).
 
 * [Tempus website](https://www.tempus.com/)
 * [SoftBank-backed Tempus AI seeks up to $6.1 bln valuation in US IPO](https://www.reuters.com/markets/deals/tempus-ai-seeks-up-61-bln-valuation-us-ipo-2024-06-05/) - Reuters
