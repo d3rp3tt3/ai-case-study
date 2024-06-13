@@ -22,13 +22,42 @@ Tempus plans to IPO in 2024, seeking a $6.1 billion valuation to make the compan
 ## Business Activities
 
 ### What specific problem is the company or project trying to solve?
+Tempus is focused on collecting large datasets of medical diagnostics and clinical research findings to clinicians and researchers. They make this data available via web applications and API-integrations with other tools, including EHRs. 
+
+Tempus is also working to integrate AI into their technology stack, focusing on providing analysis, pattern matching, and predictive treatment and recovery plans for patients.
 
 
 ### Who is the company's intended customer? Is there any information about the market size of this set of customers?
+Tempus' customers are researchers, clinicians, pharmaceutical companies, and orgnaizations building EHRs.
+
+I was unable to find definitive information about the market size for these sets of customers. That said, the target market is extensive and spans the healthcare domain.
+
+* Universities
+* Physician specialists, such as oncologists
+* EHR companies, whose customers are typically private physician offices and hospitals
+* Medical researchers
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+Tempus provides both a set of tools and means to directly access and analyze their large aggregated dataset and direct integration to several EHRs. Their unfair advantage is compounded by their time in the industry, strong backing by investors, and rapid revenue growth in the last year (up 65%). The company's impending IPO has provided additional market and public visibility for their technology and strategic AI messaging. 
+
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Tempus has documented their AI approaches at a high-level on their website through case studies. AI is integrated into several of their products. [Our Technology - Tempus website](https://www.tempus.com/about-us/tempus-tech/)
+
+* One - A clinical AI assistant leveraging generative AI and machine learning to retrieve patient information and give realtime updates on new clinical trial results.
+* Pixel - Image analysis by AI, using machine learning to assist with faster and more accurate reviews of patients' diagnostic imaging, such as CT scans, MRIs, and X-rays.
+* Next - Aggregation and analysis of individual patient and larger population trends and treatment plans.
+
+In a case study posted on the Tempus website, they highlight how the John Brancaccio St. Francis Hospital and Heart Center in New York was able to use Tempus Next to glean patient health insights from large sets of data. 
+
+> The [Tempus Next] platform is customizable, allowing the user to filter out any information they don’t need and focus on
+the exact targets of their searches. It also learns from its users as time goes on, remembering the details of
+previous searches to improve the customization process. As a result, referring clinicians learned to trust the
+platform’s discoveries and saw it as a helpful quality initiative. [Identifying patients with Valvular Heart Disease: A partnership between St.Francis and Tempus](https://www.tempus.com/resources/content/case-studies/identifying-patients-with-valvular-heart-disease-a-partnership-between-st-francis-and-tempus/?aliId=eyJpIjoiRjVaaE5RcHNXMzk2RVExYyIsInQiOiJuU3hLOHlTY2lBNDJDbWdaV1J1RXdnPT0ifQ%253D%253D)
+
+The Tempus Next product uses natural language processing and machine learning to anaylyze physicians' searches and  interactions in the web application. It then uses multimodal patient data and data from clinical trials and established clinical guidelines to suggests potential treatment plans for a specific patient.
+
 
 ## Landscape
 
@@ -68,8 +97,6 @@ Here are some of the top companies in this field:
 **Medical data aggregators**
 * OpGen
 * Genuity Science
-
-
 
 ## Results
 
