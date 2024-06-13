@@ -99,7 +99,6 @@ Tempus is one of the few companies providing analysis and proactive for large po
 
 Tempus aims to offer their shares at $() at their IPO in 2024. If their stock performs well over 6 months, it could indicate that a more general and broad approach to aggregating and analyzing essential health data is more successful than very targeted solutions, such as those provided by OpGen (infections diseases) and Genuity (inflammatory and cardio vasular diseases).
 
-
 ## Recommendations
 I recommend Tempus improve its external marketing materials on their website to make it much easier for people to see demos of their products. You have to share your personal information click through several pages to get to case studies today, for instance. And these case studies are not showing the product - they're sharing results. Results matter, but video demos go a long way to help potential customers and investors understand if Tempus is a good fit for them. 
 
@@ -108,3 +107,28 @@ Tempus should also include clear information on their website about how their EH
 For new capabilities, Tempus should add natural language processing and machine learning features to its Next product for patients. These capabilities should be integrated into EHRs, enabling a patient to quickly search across their health records, get clear explanations of what test results mean and potential health conditions, and give them actionable treatment next steps, such as behavioral changes. For example, "Based on your health data, you could reduce your risk of heart attack by 50% if you add 15 minutes of walking per day into your daily routine."
 
 Patients want direct access to their health profiles. Companies like Tempus have a unique opportunity to help physicians make more actionable treatment plans based on AI and to foster their patients to feel more in control of those plans.
+
+# Research and Resources
+This case study was informed from the following resources.
+
+* [Tempus website](https://www.tempus.com/)
+* [SoftBank-backed Tempus AI seeks up to $6.1 bln valuation in US IPO](https://www.reuters.com/markets/deals/tempus-ai-seeks-up-61-bln-valuation-us-ipo-2024-06-05/) - Reuters
+* [Billionaire Groupon founder Eric Lefkofsky is back with another IPO: AI health tech Tempus](https://techcrunch.com/2024/05/30/billionaire-groupon-founder-lefkofsky-is-back-with-another-ipo-ai-healthtech-tempus/) - TechCrunch, May 30, 2024
+* [Tempus AI Overview](https://pitchbook.com/profiles/company/164234-62#:~:text=Who%20are%20Tempus%20AI's%20competitors?%20Genuity%20Science%2C,of%20the%2043%20competitors%20of%20Tempus%20AI.), PitchBook, June 2024
+* [EHR Integration](https://www.tempus.com/oncology/ehr-integration/) - Tempus AI website, June 2024
+* [Genuity Science website](https://genuitysci.com/])
+* [OpGen website](https://www.opgen.com/)
+* [OpGen Quarterly Report on Form 10-Q](https://ir.opgen.com/news-releases/news-release-details/opgen-receives-expected-nasdaq-notice-regarding-delayed-form-10) - May 24, 2024, OpGen website
+* [Glide Health: Improving claims acceptance rates](https://www.mckesson.com/specialty/advisors-and-tools/glide-health/) - McKesson Website, June 2024
+* [AI in Medicine - Overview Webpage](https://www.nejm.org/ai-in-medicine) - The New England Journal of Medicine
+* [Free Jan 2024 Issue of NEJM AI Journal](https://ai.nejm.org/toc/ai/1/1)
+* [Multimodal Generative AI for Precision Health](https://ai.nejm.org/doi/full/10.1056/AI-S2300233) - Hoifung Poon, PhD (Microsoft), December 11, 2023
+* [SoftBank-backed Tempus AI seeks up to $6.1 bln valuation in US IPO](https://www.reuters.com/markets/deals/tempus-ai-seeks-up-61-bln-valuation-us-ipo-2024-06-05/)
+* [Tempus Announces New Features to its Smart Physician Platform, Hub](https://www.tempus.com/news/tempus-announces-new-features-to-its-smart-physician-platform-hub/), Tempus website press release, June 03, 2024
+[Crunchbase profile for Tempus](https://www.crunchbase.com/organization/tempus-3)
+* [Tempus AI products overview](https://www.tempus.com/about-us/tempus-tech/)
+* [The potential for artificial intelligence in healthcare - Diagnosis and treatment applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/#S0008title) - NIH, June 2019 - Thomas Davenport and Ravi Kalakota
+* [How AI Is Taking the Scut Work Out of Health Care, HBR, Jonthan Bush, March 05, 2018](https://hbr.org/2018/03/how-ai-is-taking-the-scut-work-out-of-health-care)
+* [National Electronic Health Survey Records Survey Results and Products](https://www.cdc.gov/nchs/nehrs/surveyproducts.htm#:~:text=91.5%25%20of%20primary%20care%20physicians,physicians%20used%20an%20EHR%20system.) - National Electronic Health Survey Records Survey - 2019
+* [Public use file national weighted estimates: National Electronic Health Records Survey, 2019](https://www.cdc.gov/nchs/data/nehrs/2019NEHRS-PUF-weighted-estimates-508.pdf)
+* [The MYCIN Experiments - Stanford University](https://exhibits.stanford.edu/feigenbaum/browse/the-mycin-experiments)
