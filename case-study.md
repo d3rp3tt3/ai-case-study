@@ -1,9 +1,9 @@
-# Tempus AI: Using Artificial Intelligence to Create More  Targeted and Successful Patient Treatment Plans
+# Tempus: Using Artificial Intelligence to Create More  Targeted and Successful Patient Treatment Plans
 
 ## Overview and Origin
-[Tempus AI](https://www.tempus.com/) was founded in 2015 and is pre-IPO. The company's legal name is Tempus Labs, Inc.
+[Tempus](https://www.tempus.com/) was founded in 2015 and is pre-IPO. The company's legal name is Tempus Labs, Inc.
 
-Eric Lefkofsky is the founder. [Eric's bio on Tempus website](https://www.tempus.com/team_members/eric-lefkofsky/). He is a co-founder and Chairman of Groupon and is a founding partner of a venture capital company named [Lightbank](https://www.lightbank.com/team-portfolio/eric-lefkofsky). 
+Eric Lefkofsky is the founder. [Eric's bio on Tempus website](https://www.tempus.com/team_members/eric-lefkofsky/). He is a co-founder and Chairman of Groupon and is a founding partner of a venture capital company named [Lightbank](https://www.lightbank.com/team-portfolio/eric-lefkofsky).
 
 Eric Lefkofsky has said he started the company because his wife was diagnosed with breast cancer. He wanted to use data to inform patient diagnoses and treatment to improve patients' overall recovery.
 
@@ -14,13 +14,13 @@ Tempus plans to IPO in 2024, seeking a $6.1 billion valuation to make the compan
 ## Business Activities
 
 ### What Tempus Does
-Tempus is focused on collecting large datasets of medical diagnostics and clinical research findings to clinicians and researchers. They make this data available via web applications and API-integrations with other tools, including EHRs. 
+Tempus is focused on collecting large datasets of medical diagnostics and clinical research findings to clinicians and researchers. They make this data available via web applications and via API-integrations for other tools, including EHRs.
 
 Tempus is also working to integrate AI into their technology stack, focusing on providing analysis, pattern matching, and predictive treatment and recovery plans for patients.
 
 
 ### Target Customers and Total Addressible Market
-Tempus' customers are researchers, clinicians, pharmaceutical companies, and orgnaizations building EHRs.
+Tempus' customers are researchers, clinicians, pharmaceutical companies, and organizations building EHRs.
 
 I was unable to find definitive information about the market size for these sets of customers. That said, the target market is extensive and spans the healthcare domain.
 
@@ -30,7 +30,7 @@ I was unable to find definitive information about the market size for these sets
 * Medical researchers
 
 ### Unique Capabilities in the Tempus Portfolio
-Tempus provides both a set of tools and means to directly access and analyze their large aggregated dataset and direct integration to several EHRs. Their unfair advantage is compounded by their time in the industry, strong backing by investors, and rapid revenue growth in the last year (up 65%). The company's impending IPO has provided additional market and public visibility for their technology and strategic AI messaging. 
+Tempus provides both a set of tools and means to directly access and analyze their large aggregated dataset and direct integration to several EHRs. Their unfair advantage is compounded by their time in the industry, strong backing by investors, and rapid revenue growth in the last year (up 65%). The company's impending IPO has provided additional market and public visibility for their technology and strategic AI messaging.
 
 ### How Tempus Uses AI
 Tempus has documented their AI approaches at a high-level on their website through case studies. AI is integrated into several of their products. [Our Technology - Tempus website](https://www.tempus.com/about-us/tempus-tech/)
@@ -39,7 +39,7 @@ Tempus has documented their AI approaches at a high-level on their website throu
 * Pixel - Image analysis by AI, using machine learning to assist with faster and more accurate reviews of patients' diagnostic imaging, such as CT scans, MRIs, and X-rays.
 * Next - Aggregation and analysis of individual patient and larger population trends and treatment plans.
 
-In a case study posted on the Tempus website, they highlight how the John Brancaccio St. Francis Hospital and Heart Center in New York was able to use Tempus Next to glean patient health insights from large sets of data. 
+In a case study posted on the Tempus website, they highlight how the John Brancaccio St. Francis Hospital and Heart Center in New York was able to use Tempus Next to glean patient health insights from large sets of data.
 
 > The [Tempus Next] platform is customizable, allowing the user to filter out any information they don’t need and focus on
 the exact targets of their searches. It also learns from its users as time goes on, remembering the details of
@@ -67,10 +67,11 @@ In 2019, Thomas Davenport and Ravi Kalakota and noted data collection of test re
 
 ### What are the other major companies in this field?
 There are two types of companies investing in this field.
-EHR companies, such as McKesson and Epic 
-Medica data aggregators and analyzers, such as 
 
-Here are some of the top companies in this field: 
+1. EHR companies, such as Epic
+2. Medical data aggregators and analyzers, such as Genuity Science
+
+Here are some of the top companies in this field:
 
 **EHRs**
 * Epic (Epic Genomics Module and Aura)
@@ -90,14 +91,14 @@ Here are some of the top companies in this field:
 ## Results
 
 ### How Tempus is Performing in the Market
-Tempus is not a public company yet and has provided minimal information about the breadth of their products' adoption in the provider and life sciences areas. 
+Tempus, being a privately-held company, has disclosed limited details regarding the extent of their products' adoption within the healthcare provider and life sciences sectors.
 
 As it prepares for an IPO in 2024, Tempus has had to give more transparency into their financials and business processes. These records show they had a net loss of $289.8 million in 2023, which was roughly $70 million more than their net loss in 2022. However, their revenue continues to grow, increasing by 65.8% in 2023.
 
 ### What Makes Tempus Unique in the Market
 Tempus is one of the few companies providing analysis and proactive for large populations and across many types of clinical areas of focus. Their competitor OpGen, for instance, focuses on infectius diseases. OpGen is listed on Nasdaq [OpGen Stock Quote Chart](https://ir.opgen.com/stock-information/stock-quote-chart). Their public financials show their stock has been flat for several years now. As of June 13, 2024, their stock is trading at $2.45. Their is up roughly 48% year-over-year, which was achieved by cutting their operational costs by 45%. At the same time, their net income was down almost 62%. 
 
-Tempus aims to offer their shares at $() at their IPO in 2024. If their stock performs well over 6 months, it could indicate that a more general and broad approach to aggregating and analyzing essential health data is more successful than very targeted solutions, such as those provided by OpGen (infections diseases) and Genuity (inflammatory and cardio vasular diseases).
+Tempus aims to offer their shares between $35 and $37 at their IPO in 2024. If their stock performs well over 6 months, it could indicate that a more general and broad approach to aggregating and analyzing essential health data is more successful than very targeted solutions, such as those provided by OpGen (infections diseases) and Genuity (inflammatory and cardio vasular diseases).
 
 ## Recommendations
 I recommend Tempus improve its external marketing materials on their website to make it much easier for people to see demos of their products. You have to share your personal information click through several pages to get to case studies today, for instance. And these case studies are not showing the product - they're sharing results. Results matter, but video demos go a long way to help potential customers and investors understand if Tempus is a good fit for them. 
