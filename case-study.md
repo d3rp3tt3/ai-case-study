@@ -1,33 +1,25 @@
-# Tempus AI: Using Artificial Intelligence to Improve EHR Patient Experiences
+# Tempus AI: Using Artificial Intelligence to Create More  Targeted and Successful Patient Treatment Plans
 
 ## Overview and Origin
+[Tempus AI](https://www.tempus.com/) was founded in 2015 and is pre-IPO. The company's legal name is Tempus Labs, Inc.
 
-### Name of company
-[Tempus AI](https://www.tempus.com/)
-
-### When was the company incorporated?
-Tempus AI was founded in 2015 and is pre-IPO. The company's legal name is Tempus Labs, Inc.
-
-### Who are the founders of the company?
 Eric Lefkofsky is the founder. [Eric's bio on Tempus website](https://www.tempus.com/team_members/eric-lefkofsky/). He is a co-founder and Chairman of Groupon and is a founding partner of a venture capital company named [Lightbank](https://www.lightbank.com/team-portfolio/eric-lefkofsky). 
 
-### How did the idea for the company (or project) come about?
 Eric Lefkofsky has said he started the company because his wife was diagnosed with breast cancer. He wanted to use data to inform patient diagnoses and treatment to improve patients' overall recovery.
 
-### How is the company funded? How much funding have they received?
 Tempus has 16 investors, 5 of which are lead investors. They've raised $1.3 billion over 13 rounds of funding. They are currently a series G company and have had two rounds of debt financing. [Tempus financial data on Crunchbase](https://www.crunchbase.com/organization/tempus-3/company_financials).
 
 Tempus plans to IPO in 2024, seeking a $6.1 billion valuation to make the company public via the NASDAQ public stock exchange.
 
 ## Business Activities
 
-### What specific problem is the company or project trying to solve?
+### What Tempus Does
 Tempus is focused on collecting large datasets of medical diagnostics and clinical research findings to clinicians and researchers. They make this data available via web applications and API-integrations with other tools, including EHRs. 
 
 Tempus is also working to integrate AI into their technology stack, focusing on providing analysis, pattern matching, and predictive treatment and recovery plans for patients.
 
 
-### Who is the company's intended customer? Is there any information about the market size of this set of customers?
+### Target Customers and Total Addressible Market
 Tempus' customers are researchers, clinicians, pharmaceutical companies, and orgnaizations building EHRs.
 
 I was unable to find definitive information about the market size for these sets of customers. That said, the target market is extensive and spans the healthcare domain.
@@ -37,12 +29,10 @@ I was unable to find definitive information about the market size for these sets
 * EHR companies, whose customers are typically private physician offices and hospitals
 * Medical researchers
 
-### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
+### Unique Capabilities in the Tempus Portfolio
 Tempus provides both a set of tools and means to directly access and analyze their large aggregated dataset and direct integration to several EHRs. Their unfair advantage is compounded by their time in the industry, strong backing by investors, and rapid revenue growth in the last year (up 65%). The company's impending IPO has provided additional market and public visibility for their technology and strategic AI messaging. 
 
-### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+### How Tempus Uses AI
 Tempus has documented their AI approaches at a high-level on their website through case studies. AI is integrated into several of their products. [Our Technology - Tempus website](https://www.tempus.com/about-us/tempus-tech/)
 
 * One - A clinical AI assistant leveraging generative AI and machine learning to retrieve patient information and give realtime updates on new clinical trial results.
@@ -60,11 +50,10 @@ The Tempus Next product uses natural language processing and machine learning to
 
 
 ## Landscape
-
-### What field is the company in?
+### How Tempus Fits into the Field of Health Data and Medical Diagnostics
 Tempus is a medical data and diagnostics company, primarily focused on oncology and cancer diagnosis and treatment. They provide access to large datasets and analysis for that data to clinicians and research organizations.
 
-### What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+### Innovations in the Medical Diagnostics Field
 In the last 10 years, the industry has begun to move toward providing better aggregation of various datasets to help inform more efficient and accurate patient treatment of conditions like cancer. MYCIN, likely the first system designed to evaluate public health data, was created at Stanford University in the laste 1970s to improve treatment for infectious diseases.[The MYCIN Experiments - Stanford University](https://exhibits.stanford.edu/feigenbaum/browse/the-mycin-experiments). It used a simple rules-based approach to identify patterns and suggest treatment. These types of models have begun to be applied in AI neural networks in the last 5 years by companies like Tempus.
 
 A 2019 survey of over 300,000 physicians found that "89.9% of office-based physicians used an electronic health record (EHR) system." [National Electronic Health Survey Records Survey Results and Products](https://www.cdc.gov/nchs/nehrs/surveyproducts.htm#:~:text=91.5%25%20of%20primary%20care%20physicians,physicians%20used%20an%20EHR%20system.) - National Electronic Health Survey Records Survey - 2019 and [Public use file national weighted estimates: National Electronic Health Records Survey, 2019](https://www.cdc.gov/nchs/data/nehrs/2019NEHRS-PUF-weighted-estimates-508.pdf).
@@ -100,19 +89,22 @@ Here are some of the top companies in this field:
 
 ## Results
 
-### What has been the business impact of this company so far?
- Tempus stands out in this field for several reasons. First, public information from EHR companies show they're focused more on improving claims review and acceptance rates. This is a great thing for them to solve, but it's not my area of focus for this case study. [Glide Health: Improving claims acceptance rates](https://www.mckesson.com/specialty/advisors-and-tools/glide-health/) - McKesson Website, June 2024
+### How Tempus is Performing in the Market
+Tempus is not a public company yet and has provided minimal information about the breadth of their products' adoption in the provider and life sciences areas. 
 
-### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+As it prepares for an IPO in 2024, Tempus has had to give more transparency into their financials and business processes. These records show they had a net loss of $289.8 million in 2023, which was roughly $70 million more than their net loss in 2022. However, their revenue continues to grow, increasing by 65.8% in 2023.
 
-* How is your company performing relative to competitors in the same field?
+### What Makes Tempus Unique in the Market
+Tempus is one of the few companies providing analysis and proactive for large populations and across many types of clinical areas of focus. Their competitor OpGen, for instance, focuses on infectius diseases. OpGen is listed on Nasdaq [OpGen Stock Quote Chart](https://ir.opgen.com/stock-information/stock-quote-chart). Their public financials show their stock has been flat for several years now. As of June 13, 2024, their stock is trading at $2.45. Their is up roughly 48% year-over-year, which was achieved by cutting their operational costs by 45%. At the same time, their net income was down almost 62%. 
+
+Tempus aims to offer their shares at $() at their IPO in 2024. If their stock performs well over 6 months, it could indicate that a more general and broad approach to aggregating and analyzing essential health data is more successful than very targeted solutions, such as those provided by OpGen (infections diseases) and Genuity (inflammatory and cardio vasular diseases).
+
 
 ## Recommendations
+I recommend Tempus improve its external marketing materials on their website to make it much easier for people to see demos of their products. You have to share your personal information click through several pages to get to case studies today, for instance. And these case studies are not showing the product - they're sharing results. Results matter, but video demos go a long way to help potential customers and investors understand if Tempus is a good fit for them. 
 
-### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Tempus should also include clear information on their website about how their EHR integrations work and which features are available in the EHR from their other products.
 
-### Why do you think that offering this product or service would benefit the company?
+For new capabilities, Tempus should add natural language processing and machine learning features to its Next product for patients. These capabilities should be integrated into EHRs, enabling a patient to quickly search across their health records, get clear explanations of what test results mean and potential health conditions, and give them actionable treatment next steps, such as behavioral changes. For example, "Based on your health data, you could reduce your risk of heart attack by 50% if you add 15 minutes of walking per day into your daily routine."
 
-### What technologies would this additional product or service utilize?
-
-### Why are these technologies appropriate for your solution?
+Patients want direct access to their health profiles. Companies like Tempus have a unique opportunity to help physicians make more actionable treatment plans based on AI and to foster their patients to feel more in control of those plans.
