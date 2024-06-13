@@ -1,4 +1,4 @@
-# Tempus: Using Artificial Intelligence to Create More  Targeted and Successful Patient Treatment Plans
+# Tempus: Using Artificial Intelligence to Predict and Create Successful Patient Treatment Plans
 
 ## Overview and Origin
 
