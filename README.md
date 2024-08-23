@@ -1,25 +1,28 @@
-# Tempus: Using Artificial Intelligence to Predict and Create Successful Patient Treatment Plans
+# Tempus AI: Using Artificial Intelligence to Predict and Create Successful Patient Treatment Plans
 
 ## Overview and Origin
 
-[Tempus](https://www.tempus.com/) was founded in 2015 and is pre-IPO. The company's legal name is Tempus Labs, Inc.
+Eric Lefkofsky founded [Tempus](https://www.tempus.com/) in 2015 after his wife was diagnosed with breast cancer. He has said he wanted to use data to create better treatments for patients and improve their overall recoveries.
 
-Eric Lefkofsky is the founder. [Eric's bio on the Tempus website](https://www.tempus.com/team_members/eric-lefkofsky/). He is a co-founder and Chairman of Groupon and is a founding partner of a venture capital company named [Lightbank](https://www.lightbank.com/team-portfolio/eric-lefkofsky).
+> [Lefosky](https://www.tempus.com/team_members/eric-lefkofsky/) is a co-founder and Chairman of Groupon and is a founding partner of a venture capital company named [Lightbank](https://www.lightbank.com/team-portfolio/eric-lefkofsky).
 
-Eric Lefkofsky has said he started the company because his wife was diagnosed with breast cancer. He wanted to use data to inform patient diagnoses and treatment to improve patients' overall recovery.
+Tempus AI's legal name is Tempus Labs, Inc.
 
-Tempus has 16 investors and has raised $1.3 billion over 13 rounds of funding. They are currently a series G company and have had two rounds of debt financing. [Tempus financial data on Crunchbase](https://www.crunchbase.com/organization/tempus-3/company_financials).
+### Financials
 
-Tempus plans to IPO in 2024, seeking a $6.1 billion valuation to make the company public via the NASDAQ public stock exchange.
+Tempus AI had its initial public offering (IPO) on NASDAQ on June 14, 2024 under the ticker symbol TEM.
+
+Tempus's valuation at IPO was $6.1 billion, and they offered 11.1 million shares of stock at $37.00 per share. On the day of the IPO, they raised $410.7 million, with shares closing at $40 per share, up roughly 9%.
+
+Before its IPO exit, Tempus AI had 16 investors and had raised $1.3 billion over 13 rounds of funding. They were a series G company with two rounds of debt financing. See the [Tempus financial data on Crunchbase](https://www.crunchbase.com/organization/tempus-3/company_financials) and the [Tempus listing on the NASDAQ exchange](https://www.nasdaq.com/market-activity/stocks/tem) for more information on their current financials and market positions.
 
 ## Business Activities
 
 ### What Tempus Does
 
-Tempus is focused on collecting large datasets of medical diagnostics and clinical research findings for clinicians and researchers. They make this data available via web applications and API integrations for other tools, including EHRs.
+Tempus collects large datasets of medical diagnostics and clinical research findings for clinicians and researchers. They make this data available via web applications and API integrations for other tools, including EHRs.
 
 Tempus is also working to integrate AI into its technology stack, focusing on providing analysis, pattern matching, and predictive treatment and recovery plans for patients.
-
 
 ### Target Customers and Total Addressable Market
 
@@ -34,7 +37,7 @@ I was unable to find definitive information about the market size for these sets
 
 ### Unique Capabilities in the Tempus Portfolio
 
-Tempus provides both a set of tools and means to directly access and analyze their large aggregated dataset and direct integration to several EHRs. Their unfair advantage is compounded by their time in the industry, strong backing by investors, and rapid revenue growth in the last year (up 65%). The company's impending IPO has provided additional market and public visibility for its technology and strategic AI messaging.
+Tempus provides both a set of tools and means to directly access and analyze their large aggregated dataset and direct integration to several EHRs. Their unfair advantage is compounded by their time in the industry, strong backing by investors, and rapid revenue growth in the last year (up 65%). The company's IPO has provided additional market and public visibility for its technology and strategic AI messaging.
 
 ### How Tempus Uses AI
 
@@ -101,13 +104,13 @@ Here are some of the top companies in this field:
 
 Tempus, being a privately-held company, has disclosed limited details regarding the extent of its products' adoption within the healthcare provider and life sciences sectors.
 
-As it prepares for an IPO in 2024, Tempus has had to give more transparency into its financials and business processes. These records show they had a net loss of $289.8 million in 2023, which was roughly $70 million more than their net loss in 2022. However, their revenue continues to grow, increasing by 65.8% in 2023.
+As it prepares for its fist quarterly report following its June 2024 IPO, Tempus will be required to give its shareholders more visibility into its financials and business processes. Their pre-IPO filings show they had a net loss of $289.8 million in 2023, which was roughly $70 million more than their net loss in 2022. However, their revenue continues to grow, increasing by 65.8% in 2023. With the IPO showing the market is optimistic about their growth and the stock continuing to grow ($66.18 as of August 23, 2024 - a nearly 66% increase), its outlook is promising.
 
 ### What Makes Tempus Unique in the Market
 
 Tempus is one of the few companies providing analysis and proactive for large populations across many types of clinical areas of focus. Their competitor OpGen, for instance, focuses on infectious diseases. OpGen is listed on the NASDAQ stock exchange [OpGen Stock](https://ir.opgen.com/stock-information/stock-quote-chart). Their public financials show their stock has been flat for several years now. As of June 13, 2024, their stock is trading at $2.45. Their revenue was up roughly 48% year-over-year, which was achieved by cutting their operational costs by 45%. At the same time, their net income was down almost 62%.
 
-Tempus aims to offer their shares between $35 and $37 at their IPO in 2024. If their stock performs well over 6 months, it could indicate that a more general and broad approach to aggregating and analyzing essential health data is more successful than very targeted solutions, such as those provided by OpGen (infections diseases) and Genuity (inflammatory and cardiovascular diseases).
+If their stock continues to perform well over 6 months, it could indicate that a more general and broad approach to aggregating and analyzing essential health data is more successful than very targeted solutions, such as those provided by OpGen (infections diseases) and Genuity (inflammatory and cardiovascular diseases).
 
 ## Recommendations
 I recommend Tempus improve its external marketing materials on its website to make it much easier for people to see demos of their products. You have to share your personal information click through several pages to get to case studies today, for instance. And these case studies are not showing the product - they're sharing results. Results matter, but video demos go a long way to help potential customers and investors understand if Tempus is a good fit for them.
@@ -118,11 +121,12 @@ For new capabilities, Tempus should add natural language processing and machine 
 
 Patients want direct access to their health profiles. Companies like Tempus have a unique opportunity to help physicians make more actionable treatment plans based on AI and to foster their patients to feel more in control of those plans.
 
-# Research and Resources
+## Research and Resources
 
 This case study was informed from the following resources. To see the full set of research, see [the research data in this repository](./resources/research-data.md).
 
 * [Tempus website](https://www.tempus.com/)
+* [Tempus AI Press Release: Tempus Announces Pricing of Initial Public Offering](https://www.tempus.com/news/pr/tempus-announces-pricing-of-initial-public-offering)
 * [SoftBank-backed Tempus AI seeks up to $6.1 bln valuation in US IPO](https://www.reuters.com/markets/deals/tempus-ai-seeks-up-61-bln-valuation-us-ipo-2024-06-05/) - Reuters
 * [Billionaire Groupon founder Eric Lefkofsky is back with another IPO: AI health tech Tempus](https://techcrunch.com/2024/05/30/billionaire-groupon-founder-lefkofsky-is-back-with-another-ipo-ai-healthtech-tempus/) - TechCrunch, May 30, 2024
 * [Tempus AI Overview](https://pitchbook.com/profiles/company/164234-62#:~:text=Who%20are%20Tempus%20AI's%20competitors?%20Genuity%20Science%2C,of%20the%2043%20competitors%20of%20Tempus%20AI.), PitchBook, June 2024
